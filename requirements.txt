@@ -1,0 +1,15 @@
+# Core Logic & Pipeline
+pandas>=2.2.2
+numpy>=1.26.0
+pathway>=0.1.60
+
+# Natural Language Processing
+textblob>=0.17.1
+nltk>=3.8.1
+
+# AI & API
+openai>=1.10.0
+python-dotenv>=1.0.0
+
+# Logging & Utils
+colorama>=0.4.6

@@ -1,0 +1,13 @@
+chunking:
+  chunk_size: 1200
+  overlap: 200
+retrieval:
+  top_k: 5
+beliefs:
+  categories:
+  - fear
+  - values
+  - goals
+  - worldview
+decision:
+  contradiction_threshold: 0.4

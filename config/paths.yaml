@@ -1,0 +1,6 @@
+data:
+  novels_dir: data/novels
+  backstories_dir: data/backstories
+output:
+  results_file: outputs/results.csv
+  logs_file: outputs/logs.txt

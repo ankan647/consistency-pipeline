@@ -1,0 +1,9 @@
+story_id,prediction,rationale
+001,0,❌ [GATE FAIL]: Inconsistent: Negative trait for arthur contradicts positive novel sentiment. | ⚖️ [AUDIT]: INCONSISTENT: Behavior shift lacks clear internal or external justification.
+002,1,"Consistent behavior, identity, and chronology."
+003,0,❌ [GATE FAIL]: Inconsistent: Positive trait for count contradicts negative novel sentiment. | ⚖️ [AUDIT]: INCONSISTENT: Behavior shift lacks clear internal or external justification.
+004,0,❌ [GATE FAIL]: Inconsistent: Negative trait for edmond contradicts positive novel sentiment. | ⚖️ [AUDIT]: INCONSISTENT: Behavior shift lacks clear internal or external justification.
+005,0,❌ [GATE FAIL]: Style Clash: Character voice changed significantly (Complexity Diff: 0.45). | ⚖️ [AUDIT]: INCONSISTENT: Behavior shift lacks clear internal or external justification.
+006,0,"❌ [GATE FAIL]: Social Inconsistency: 'Friend' in backstory, but acts as 'Enemy' in novel. | ⚖️ [AUDIT]: INCONSISTENT: Behavior shift lacks clear internal or external justification."
+007,0,"❌ [GATE FAIL]: Physical Inconsistency: Backstory mentions character is 'paralyzed', but novel says they 'ran'. | ⚖️ [AUDIT]: INCONSISTENT: Behavior shift lacks clear internal or external justification."
+008,1,"Consistent behavior, identity, and chronology."
