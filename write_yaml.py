@@ -2,7 +2,6 @@ import yaml
 import os
 
 yaml_path = os.path.join("config", "paths.yaml")
-
 paths_dict = {
     "data": {
         "novels_dir": "data/novels",
