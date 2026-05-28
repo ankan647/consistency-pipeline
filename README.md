@@ -1,4 +1,4 @@
-# 🚀 Real-AI Consistency Pipeline [Track A]
+# 🚀 Real-AI Consistency Pipeline 
 
 ## 📌 Project Overview
 Character consistency is the foundation of high-quality narrative data. This project implements an advanced, multi-agent validation ecosystem that analyzes character stability through psychological, physical, and causal dimensions.
