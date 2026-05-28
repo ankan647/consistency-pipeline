@@ -33,7 +33,7 @@ The final decision-making tier for complex character behavior.
 ---
 
 ## 🛠️ Directory Structure
-```text
+```
 KDSH/
 ├── main.py                     # Pipeline Orchestrator
 ├── pipeline/
@@ -47,6 +47,7 @@ KDSH/
 ├── input_data.csv              # Input Dataset
 └── outputs/
     └── results.csv             # Final Audit Report (XAI)
+```
 ✨ Key Features
 Multi-Dimensional Analysis: Goes beyond text-matching to analyze fear, causality, and stylometry.
 
@@ -59,19 +60,22 @@ Explainable AI (XAI): Detailed rationales in results.csv explain exactly why a s
 🚀 Installation & Setup
 1. Install Dependencies:
 
-Bash
+```Bash
 
 pip install -r requirements.txt
+```
 2. Download NLP Corpora:
 
-Bash
+```Bash
 
 python -m textblob.download_corpora
+```
 3. Execute the Pipeline:
 
-Bash
+```Bash
 
 python main.py
+```
 📊 Results Summary
 The system produces a binary classification (1 for Consistent, 0 for Inconsistent) based on the consensus of the Logic Gates and the Narrative Audit.
 
