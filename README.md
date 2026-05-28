@@ -11,7 +11,7 @@ By combining a **6-Gate Heuristic Framework** with a **Narrative Intelligence Su
 The pipeline is divided into specialized agents, moving from fast symbolic checks to deep contextual reasoning.
 
 ### 1. The Core Logic Tier (`pipeline/`)
-The foundational layer responsible for "hard" consistency and factual verification.
+The foundational layer responsible for *"hard"* consistency and factual verification.
 * **Consistency Checker & Validator:** The primary gates for sentiment and identity verification.
 * **Chronology & Physicality:** Ensures no violations of time or physical laws (via `chronology.py` and `physical.py`).
 * **Belief State Engine:** Tracks character motivations and internal logic to ensure baseline stability (via `belief_state.py`).
